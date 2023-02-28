@@ -1,0 +1,8 @@
+Please read before opening files.
+
+I have uploaded only the assets folder to reduce the size of the project. It contains all the items needed for my project, 
+please create a new unity project and drag the assets folder into the assets section, to open the projet. You will also find the scripts,
+characters, assets, prefabs there too.
+
+Thank you
+Inayah
